@@ -1,0 +1,12 @@
+[project]
+name = "shopee-automation-test"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ichrome>=5.0.2",
+    "pyppeteer>=2.0.0",
+    "pyside6>=6.9.1",
+    "requests>=2.32.3",
+]
